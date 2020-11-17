@@ -186,6 +186,10 @@ a {
     text-transform: uppercase
 }
 
+.header__info:hover {
+    color: #8BE000;
+}
+
 .header__logo {
     display: block;
     width: 190px;
